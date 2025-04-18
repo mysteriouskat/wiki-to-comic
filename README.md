@@ -17,4 +17,5 @@ python 01.py https://en.wikipedia.org/wiki/Virat_Kohli western 3
 python 02.py
 ```
 
+## Generated Image
 ![Comic page](comic_page.png)
